@@ -2,6 +2,7 @@
 //best case time complexity is O(n)
 //Worst case time complexity is O(n^2)
 //Average case time complexity is O(n)
+//Space Complexity O(1)
 
 
 #include<stdio.h>
